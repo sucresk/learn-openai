@@ -1,0 +1,23 @@
+{
+  "name": "learn-openai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "bun ./src/node/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sucresk/learn-openai.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sucresk/learn-openai/issues"
+  },
+  "homepage": "https://github.com/sucresk/learn-openai#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "openai": "^4.10.0"
+  }
+}
